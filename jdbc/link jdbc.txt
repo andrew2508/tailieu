@@ -1,0 +1,1 @@
+jdbc:mySQL://<server>:<port>/<database>?<props> 
